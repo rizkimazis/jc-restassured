@@ -2,13 +2,13 @@
 
 ### Get List Product
 
-![alt text](screenshot\GetListProduct.png)
+![alt text](screenshot/GetListProduct.png)
 
 ### Post Add List Product
-![alt text](screenshot\PostAddListProduct.png)
+![alt text](screenshot/PostAddListProduct.png)
 
 ### Put Error List Product
-![alt text](screenshot\PutErrorListProduct.png)
+![alt text](screenshot/PutErrorListProduct.png)
 
 ### Del List Product
-![alt text](screenshot\DelListProduct.png)
+![alt text](screenshot/DelListProduct.png)
